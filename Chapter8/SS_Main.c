@@ -4,10 +4,11 @@
 /*	Neural Network Prediction in a System	*/
 /*  for Optimizing Simulations              */
 /*                                          */
-/*  Authors: M. Laguna and R. Martí         */
-/*  Copyright © 2000                        */
+/*  Authors: M. Laguna and R. MartÃ­         */
+/*  Copyright Â© 2000                        */
 /*                                          */
 /********************************************/
+// Jason starts modifying Oct 31, 2017
 
 #include <time.h>
 #include "ss.h"
